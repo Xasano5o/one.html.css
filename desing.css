@@ -1,0 +1,304 @@
+body
+
+{margin: 200px;
+/* width: 100%; */
+box-sizing: border-box;
+background-color: #20243F;}
+ 
+.navbar
+{display: flex;
+background-color: #394166;
+
+padding-left: 20px;
+box-sizing: border-box;
+align-items: center;}
+
+.navitem
+{display: flex;
+padding: 20px 0;
+margin-right: 50px;
+box-sizing: border-box;
+position: relative;
+padding-right: 20px;
+}
+
+p
+{padding: 0px;
+margin: 0px;
+color: white;
+box-sizing: border-box;}
+
+.fa
+{color: #949CC1;
+    margin-left: 4px;
+padding-right: 15px;
+box-sizing: border-box;
+}
+
+
+.rigt-navitem
+{margin-left:auto;
+box-sizing: border-box;
+display: flex;
+align-items: center;}
+
+img
+{width: 35px;
+height: 35px;
+border-radius: 50%;
+margin-left: 15px;}
+
+.badge
+
+
+{position: absolute;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+color: white;
+padding: 5px;
+border-radius: 50%;
+width: 10px;
+height: 10px;
+right: 0px;
+top: 0px;}
+
+
+/* 2bosqich */
+.content
+
+{display: flex;
+margin-top: 20px;}
+
+.container1
+{display: flex;
+    flex-direction: column;
+flex: 1;
+
+margin-right: 20px;}
+
+.con11
+{background-color: #394166;
+margin-bottom: 20px;}
+
+
+.con12
+{background-color: #394166;}
+
+.title
+{background-color: #02A7AD;
+text-align: center;
+padding: 14px 0px;
+color: white;}
+
+.element
+{display: flex;
+padding: 15px 0px;
+border-bottom: 1px solid #2e3456;}
+
+.number
+{margin-left: auto;
+color: white;}
+
+
+.container2
+{display: flex;
+    flex-direction: column;
+flex: 1;
+
+margin-right: 20px;}
+
+.con21
+{display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #394166;
+width: 100%;
+margin-bottom: 20px;}
+
+.con22
+{background-color: #394166;
+ /* margin-bottom: 20px;  */ }
+
+ .fa-plus-crcle
+{padding-top: 15px 10px 10px 0px;
+    margin-left: auto;
+}
+ .container3
+{display: flex;
+flex: 1;
+flex-direction: column;
+
+}
+.logoimg
+{width: 130px;
+height: 130px;}
+
+h1
+{color: white;
+font-size: 22px;}
+
+.desc
+{color: #949CC1;
+text-align: center;
+font-size: medium;
+padding: 0 50px;}
+
+.iconcon
+{display: flex;
+    padding: 15px; }
+
+
+.title2
+
+{color: white;
+margin-bottom: 20px;}
+
+.con12
+{display: flex;
+flex-direction: column;
+justify-content: center; 
+padding: 20px;
+align-items: center;}
+
+.date
+{ display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+border-radius: 50%;
+width: 100PX;
+height: 100px;
+border: 25px solid #07A9B2 ;}
+
+.fa-star
+{margin-left: auto;
+    margin-top: 10px;
+}
+.icon1
+{border-top: 2px solid #AA9752;
+    border-right: 1px solid #20243f;}
+
+.icon2
+{border-top: 2px solid #247D8D;
+    border-right: 1px solid #20243f;}
+
+.icon3
+{border-top: 2px solid #9f5064;     }
+
+.iconcontener
+{display: flex;
+margin-top: 20px;}
+
+
+/* 2 2 */
+
+.con22
+{
+
+}
+.titlehavo
+{background-color: #cf2f49;
+padding: 15px;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+.bugun
+{color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: #E84A63;
+padding: 20px;
+padding-top: 0px;}
+
+.datebugun
+{background-color: #E84A63 ;
+padding-left: 80px;
+color: white;
+/* width: 100%; */
+display: flex;
+padding-top: 20px;}
+
+.bugungradus
+{font-size: 40px;
+    padding-right: 30px;}
+
+.fa-cloud
+
+{font-size: 40px;
+}
+
+.bugunhavo
+
+{display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/* 3 3 */
+.con31
+
+{display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+background-color: #394166;
+justify-content: center;
+align-items: center;}
+input
+
+{color: white;
+padding: 10px 30px;
+background-color: #50577c;
+border: none;
+border-radius: 5px;
+margin-bottom: 20px;}
+
+input::placeholder
+{color: white;}
+.con32
+{background-color: #394166;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.msgicon
+{position: absolute;
+    top: 10px;
+    left: 5px;
+}
+
+.inputcont
+{position: relative;}
+
+button
+{background-color: #01aab1;
+border: none;
+color: white;
+margin: 15px;
+padding: 10px 35px;
+border-radius: 4px;}
+
+.button2
+
+{background-color:#e34d61 }
+
+.footer
+{background-color: #3565B0;
+color: white;
+padding: 15px;
+margin-top: 10px;
+width: 100%;
+box-sizing: border-box;
+display: flex;
+align-items: center;
+justify-content: center;}
